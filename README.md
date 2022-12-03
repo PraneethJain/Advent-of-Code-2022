@@ -4,4 +4,4 @@
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 # Hey There!
-These are my attempts at solving Advent of Code 2022. The solutions are written in the [Julia Programming Language](https://julialang.org/).
+These are my attempts at solving Advent of Code 2022. The solutions are written in [Julia](https://julialang.org/) and [Python](https://www.python.org/).
