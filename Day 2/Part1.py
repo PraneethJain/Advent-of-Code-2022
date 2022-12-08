@@ -1,6 +1,6 @@
 result = 0
 mapping = {"X": 1, "Y": 2, "Z": 3}
-with open("input.txt", "r") as f:
+with open("./Day 2/input.txt", "r") as f:
     for line in f.readlines():
         p1, p2 = line.split()
         result += mapping[p2]

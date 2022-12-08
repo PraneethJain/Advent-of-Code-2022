@@ -1,4 +1,4 @@
-with open("input.txt", "r") as f:
+with open("./Day 5/input.txt", "r") as f:
     L = [
         ["D", "H", "R", "Z", "S", "P", "W", "Q"],
         ["F", "H", "Q", "W", "R", "B", "V"],

@@ -1,7 +1,7 @@
 result = 0
 mapping = {"A": 1, "B": 2, "C": 3}
 
-with open("input.txt", "r") as f:
+with open("./Day 2/input.txt", "r") as f:
     for line in f.readlines():
         p1, p2 = line.split()
         if p2 == "Z":
