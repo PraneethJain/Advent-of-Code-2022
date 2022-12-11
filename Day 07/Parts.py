@@ -1,5 +1,5 @@
 root = {}
-with open("./Day 7/input.txt", "r") as f:
+with open("./Day 07/input.txt", "r") as f:
     cur_dir = root
     lines = [line.strip() for line in f.readlines()[1:]]
     for line in lines:

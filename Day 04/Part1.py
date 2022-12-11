@@ -1,4 +1,4 @@
-with open("./Day 4/input.txt") as f:
+with open("./Day 04/input.txt") as f:
     result = 0
     for line in f.readlines():
         L1, L2 = [list(map(int, a.split("-"))) for a in line.split(",")]

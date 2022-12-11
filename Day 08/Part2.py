@@ -1,4 +1,4 @@
-with open("./Day 8/input.txt") as f:
+with open("./Day 08/input.txt") as f:
     grid = [list(map(int, line.strip())) for line in f.readlines()]
     length = len(grid)
 
