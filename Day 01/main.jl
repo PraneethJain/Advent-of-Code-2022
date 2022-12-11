@@ -1,5 +1,5 @@
 function main()
-    open("./Day 1/input.txt") do f
+    open("./Day 01/input.txt") do f
         L = []
         cur_sum = 0
         for line in readlines(f)
