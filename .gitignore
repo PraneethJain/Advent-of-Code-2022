@@ -1,2 +1,5 @@
 test.jl
 test.py
+bin
+obj
+*.csproj
