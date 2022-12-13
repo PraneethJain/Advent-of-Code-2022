@@ -3,3 +3,4 @@ test.py
 bin
 obj
 *.csproj
+venv
